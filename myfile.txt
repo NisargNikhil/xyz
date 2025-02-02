@@ -3,3 +3,5 @@ second line
 third line
 4th line
 5th line by dev1
+
+7th line in master
